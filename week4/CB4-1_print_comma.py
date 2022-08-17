@@ -23,7 +23,6 @@ def print_comma(number):
     print(num)
         
 
-
 number = input('숫자를 입력해주세요 : ')
     
 if (number.isnumeric()):
